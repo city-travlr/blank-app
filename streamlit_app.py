@@ -40,4 +40,4 @@ if uploaded_file:
 
 # Footer
 st.markdown("---")
-st.markdown("Created with ❤️ by [Your Name/Team].")
+st.markdown("Created with ❤️ by Bored Designers.")
