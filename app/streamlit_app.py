@@ -1,7 +1,7 @@
 import streamlit as st
-from app.pdf_utils import extract_text_from_pdf  # PDF processing
-from app.ppt_generator import generate_pptx      # PowerPoint generation
-from app.nlp_utils import extract_key_details_hf, summarize_text  # Hugging Face NLP
+from pdf_utils import extract_text_from_pdf  # PDF processing
+from ppt_generator import generate_pptx      # PowerPoint generation
+from nlp_utils import extract_key_details_hf, summarize_text  # Hugging Face NLP
 
 st.title("RFP to PowerPoint Generator")
 
