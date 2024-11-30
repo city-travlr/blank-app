@@ -3,5 +3,4 @@ PyPDF2==3.0.1
 python-pptx==1.0.2
 srsly==2.4.8
 transformers>=4.33.0
-torch>=2.0.1          # Required for Hugging Face models
-
+torch>=2.0.1          # Required for Hugging Face modelsunin
